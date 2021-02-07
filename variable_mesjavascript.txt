@@ -1,0 +1,24 @@
+var mes =10;
+
+if(mes==12){
+  alert("es invierno")
+  }else if(mes<=2){
+    alert("es invierno")
+    alert("gracias por usar nuestro servicio Edvin Ernesto Flores Mencos su numero de carnet 21004112")
+  }else if(mes<=5){
+    alert("es primavera")
+    alert("gracias por usar nuestro servicio Edvin Ernesto Flores Mencos su numero de carnet 21004112")
+  } else if(mes<=8){
+    alert("es verano")
+    alert("gracias por usar nuestro servicio Edvin Ernesto Flores Mencos su numero de carnet 21004112")
+  }else if(mes<=11){
+    alert("es otoño")
+    alert("gracias por usar nuestro servicio Edvin Ernesto Flores Mencos su numero de carnet 21004112")
+  }else if(mes===0){
+    alert("el mes que ingresaste es incorrecto")
+    alert("gracias por usar nuestro servicio Edvin Ernesto Flores Mencos su numero de carnet 21004112")
+  }else{
+    alert("el mes que ingresaste es incorrecto")
+    alert("gracias por usar nuestro servicio Edvin Ernesto Flores Mencos su numero de carnet 21004112")
+  }
+  
